@@ -1,0 +1,91 @@
+<?xml version='1.0'?>
+<replacements xml:space='preserve' incomplete_format='false'>
+</replacements>
+<?xml version='1.0'?>
+<replacements xml:space='preserve' incomplete_format='false'>
+<replacement offset='74' length='0'> </replacement>
+<replacement offset='75' length='1'></replacement>
+<replacement offset='363' length='0'> </replacement>
+<replacement offset='364' length='1'></replacement>
+<replacement offset='462' length='0'> </replacement>
+<replacement offset='463' length='1'></replacement>
+<replacement offset='766' length='0'> </replacement>
+<replacement offset='767' length='1'></replacement>
+</replacements>
+<?xml version='1.0'?>
+<replacements xml:space='preserve' incomplete_format='false'>
+<replacement offset='80' length='0'> </replacement>
+<replacement offset='81' length='1'></replacement>
+<replacement offset='389' length='0'> </replacement>
+<replacement offset='390' length='1'></replacement>
+<replacement offset='1013' length='0'> </replacement>
+<replacement offset='1014' length='1'></replacement>
+<replacement offset='1296' length='0'> </replacement>
+<replacement offset='1297' length='1'></replacement>
+</replacements>
+<?xml version='1.0'?>
+<replacements xml:space='preserve' incomplete_format='false'>
+<replacement offset='174' length='0'> </replacement>
+<replacement offset='175' length='1'></replacement>
+<replacement offset='463' length='0'> </replacement>
+<replacement offset='464' length='1'></replacement>
+</replacements>
+<?xml version='1.0'?>
+<replacements xml:space='preserve' incomplete_format='false'>
+<replacement offset='2233' length='0'> </replacement>
+<replacement offset='2234' length='1'></replacement>
+</replacements>
+<?xml version='1.0'?>
+<replacements xml:space='preserve' incomplete_format='false'>
+<replacement offset='93' length='2'>&#10;</replacement>
+<replacement offset='244' length='0'> </replacement>
+<replacement offset='245' length='1'></replacement>
+<replacement offset='289' length='0'> </replacement>
+<replacement offset='290' length='1'></replacement>
+<replacement offset='348' length='2'>&#10;</replacement>
+<replacement offset='525' length='0'> </replacement>
+<replacement offset='526' length='1'></replacement>
+<replacement offset='570' length='0'> </replacement>
+<replacement offset='571' length='1'></replacement>
+</replacements>
+<?xml version='1.0'?>
+<replacements xml:space='preserve' incomplete_format='false'>
+<replacement offset='0' length='43'>#include "game_element.h"&#10;#include &lt;memory></replacement>
+<replacement offset='131' length='2'>&#10;</replacement>
+<replacement offset='314' length='0'> </replacement>
+<replacement offset='315' length='1'></replacement>
+<replacement offset='358' length='0'> </replacement>
+<replacement offset='359' length='1'></replacement>
+<replacement offset='409' length='2'>&#10;</replacement>
+<replacement offset='566' length='0'> </replacement>
+<replacement offset='567' length='1'></replacement>
+<replacement offset='610' length='0'> </replacement>
+<replacement offset='611' length='1'></replacement>
+<replacement offset='869' length='3'>&#10;&#10;</replacement>
+</replacements>
+<?xml version='1.0'?>
+<replacements xml:space='preserve' incomplete_format='false'>
+<replacement offset='0' length='56'>#include "cpputils/graphics/image.h"&#10;#include &lt;iostream></replacement>
+<replacement offset='124' length='2'>&#10;</replacement>
+<replacement offset='949' length='3'>&#10;&#10;</replacement>
+</replacements>
+<?xml version='1.0'?>
+<replacements xml:space='preserve' incomplete_format='false'>
+<replacement offset='0' length='120'>#include "cpputils/graphics/image_event.h"&#10;#include "opponent.h"&#10;#include "player.h"&#10;#include &lt;memory>&#10;#include &lt;vector></replacement>
+<replacement offset='257' length='2'>&#10;</replacement>
+<replacement offset='454' length='0'> </replacement>
+<replacement offset='455' length='1'></replacement>
+<replacement offset='540' length='0'> </replacement>
+<replacement offset='541' length='1'></replacement>
+<replacement offset='643' length='0'> </replacement>
+<replacement offset='644' length='1'></replacement>
+<replacement offset='735' length='0'> </replacement>
+<replacement offset='736' length='1'></replacement>
+<replacement offset='779' length='0'> </replacement>
+<replacement offset='780' length='1'></replacement>
+<replacement offset='932' length='0'> </replacement>
+<replacement offset='933' length='1'></replacement>
+<replacement offset='1177' length='0'> </replacement>
+<replacement offset='1178' length='1'></replacement>
+<replacement offset='1250' length='3'>&#10;&#10;</replacement>
+</replacements>
